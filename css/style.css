@@ -49,6 +49,7 @@ div.red {
     margin-left: 50px;
     border-left: 5px solid;
     border-bottom: 2px solid;
+    border-right: 0;
 }
 
 div.blue {
@@ -56,6 +57,7 @@ div.blue {
     text-align: left;
     margin-right: 50px;
     border-right: 5px solid;
+    border-left: 0;
     border-top: 2px solid;
 }
 
@@ -73,6 +75,7 @@ div.yellow {
     margin-left: 50px;
     border-left: 5px solid;
     border-bottom: 2px solid;
+    border-right: 0;
 }
 
 div.yellow p {
@@ -86,6 +89,7 @@ div.green {
     margin-right: 50px;
     border-right: 5px solid;
     border-top: 2px solid;
+    border-left: 0;
 }
 
 footer {
@@ -99,4 +103,5 @@ footer p {
     padding-top: 15px;
     padding-right: 15px;
     padding-bottom: 15px;
+    padding-left: 0;
 }
